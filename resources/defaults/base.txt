@@ -1,0 +1,12 @@
+fonts 
+
+primary font-style : Oxanium https://fonts.google.com/specimen/Oxanium
+secondary font-style : Muli https://fonts.google.com/specimen/Muli
+tertiary font-style : Audiowide https://fonts.google.com/specimen/Audiowide
+
+<link href="https://fonts.googleapis.com/css?family=Audiowide|Muli|Oxanium&display=swap" rel="stylesheet">
+
+=============================================================================================================
+colors
+
+
