@@ -12,12 +12,24 @@
 .fab{
     color: white;
 }
+.box{
+    display: grid;
+    place-content: center;
+}
 .social{
     display: grid;
     margin-top: 50px;
     place-items: center;
     grid-template-columns: 1fr 1fr;
     gap: 20px;
+}
+#name{
+    font-family: Audiowide;
+    margin: 50px;
+    padding: 10px;
+    letter-spacing: 10px;
+    font-size: 4em;
+    color: #0e0e52;
 }
 .box{
     margin: 20px;
